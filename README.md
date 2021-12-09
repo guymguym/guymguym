@@ -1,8 +1,14 @@
 <a href="https://github.com/guymguym">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=guymguym&show_icons=true&theme=radical" 
+  <img align="center" height="180px" 
+       src="https://github-readme-stats.vercel.app/api?username=guymguym&theme=radical&show_icons=true" 
        alt="Guymguym's GitHub Stats" />
 </a>
+<a href="https://github.com/guymguym">
+  <img align="center" height="180px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guymguym&theme=radical&layout=compact&langs_count=8" 
+       alt="Guymguym's Top Languages" />
+</a>
+
 <br/>
 
 <!--

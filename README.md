@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/guymguym">
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=guymguym&show_icons=true&theme=radical" 
+       alt="Guymguym's GitHub Stats" />
+</a>
+<br/>
 
 <!--
 **guymguym/guymguym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

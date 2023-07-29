@@ -5,11 +5,6 @@
        align="center" height="180px" alt="Guymguym's Top Languages ..." />
 </div>
 
-<br/>
-
-### 🔭 &nbsp; I’m currently working ...
-### 🌱 &nbsp; I’m currently learning ...
-
 <!--
 **guymguym/guymguym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

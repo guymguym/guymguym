@@ -7,13 +7,7 @@
 
 <br/>
 
-## 🔭 &nbsp; I’m currently working on ...
-
-### 😈 &nbsp; [s3d.rs](https://s3d.rs) ([github](https://github.com/s3d-rs/s3d))
-`s3d` is a daemon for data access using S3 API. A modern cousin of `nfsd`, `ftpd`, `httpd`, etc. It is designed to be simple, tiny, blazing fast, and portable in order to fit in a variety of environments from developer machines, containers, kubernetes, edge devices, etc.
-
-
-
+## 🌱 &nbsp; I’m currently learning ...
 
 <!--
 **guymguym/guymguym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
